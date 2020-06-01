@@ -1,0 +1,15 @@
+{
+  "name": "rhassuncao-bootcampnode-aula2",
+  "version": "1.0.0",
+  "description": "Aula 2 do bootcamp node",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/rhassuncao-bootcampnode-aula2"
+  },
+  "files": [
+    "./bin"
+  ],
+  "keywords": [],
+  "author": "Renan Assunção",
+  "license": "MIT"
+}
